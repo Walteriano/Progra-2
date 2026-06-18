@@ -1,6 +1,5 @@
 # Progra-2
-Proyectos para Programación 2, PUCV
-
-
+Proyecto 2
+Curso: Programación 2
 Integrantes: Fernando Schiappacasse, Benjamin Jara, Alvaro Perez, Francisca Tapia
 
